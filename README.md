@@ -24,10 +24,13 @@ Jogo de plataforma 2D em **C++ com SFML**, desenvolvido na disciplina de Program
 
 [📂 Acessar repositório](https://github.com/leojkrambeck/Castelo-maldoso)
 
-### ✨ Simulador de Partículas V2
-_[Descrição do simulador: o que ele simula, linguagem e bibliotecas usadas e o que mudou em relação à primeira versão]_
+### ⚛️ Simulador de Partículas V2
+Simulador interativo em **C++17 com SFML** da interação elétrica entre prótons e elétrons, com cargas, massas e unidades reais (SI).
+- Forças de Coulomb integradas com **Velocity Verlet** e passo de tempo adaptativo nas aproximações
+- Editor visual para posicionar partículas e definir velocidades com o mouse
+- Sonda e mapa de potencial e campo elétrico, rastros de trajetória e medidor de estabilidade numérica
 
-[📂 Acessar repositório](LINK_DO_REPOSITORIO)
+[📂 Acessar repositório](https://github.com/leojkrambeck/Simulador-de-Particulas_v2)
 
 ### 🎓 Sistema Acadêmico
 Aplicação de console em **C++** para gerenciar universidades, departamentos, disciplinas, professores e alunos.
